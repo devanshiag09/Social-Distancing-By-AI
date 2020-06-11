@@ -31,6 +31,8 @@ In addition to everyday steps to prevent COVID-19, keeping space between you and
 
 **But how we can leverage &quot;AI&quot; to achieve this?**
 
+![](sd_flow.PNG)
+
 ![](sur.jpg)
 
 **Surveillance:**
