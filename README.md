@@ -23,9 +23,7 @@ To practice social or physical distancing:
 
 
 
-![](pic2.png)
-
-
+![](pic2.jpg)
 
 In addition to everyday steps to prevent COVID-19, keeping space between you and others is one of the best tools we have to avoid being exposed to this virus and slowing its spread locally and across the country and world.
 
@@ -33,7 +31,7 @@ In addition to everyday steps to prevent COVID-19, keeping space between you and
 
 **But how we can leverage &quot;AI&quot; to achieve this?**
 
-![](RackMultipart20200611-4-1nguv0o_html_2f1e9b3930999bc4.png)
+![](sur.jpg)
 
 **Surveillance:**
 
