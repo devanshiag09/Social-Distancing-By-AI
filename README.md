@@ -23,7 +23,7 @@ To practice social or physical distancing:
 
 
 
-![](RackMultipart20200611-4-1nguv0o_html_c315ec31e141d7b4.png)
+![](pic2.png)
 
 
 
