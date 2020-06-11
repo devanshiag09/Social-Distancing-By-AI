@@ -2,15 +2,13 @@
 
 According to world health organization,
 
-![](RackMultipart20200611-4-1nguv0o_html_12552edebbf62467.jpg)
+![](who_sd.jpg)
 
 Prevention –
 
 - Maintain at least 1 metre (3 feet) distance between yourself and others. Why? When someone coughs, sneezes, or speaks they spray small liquid droplets from their nose or mouth which may contain virus. If you are too close, you can breathe in the droplets, including the COVID-19 virus if the person has the disease.
 
 - Avoid going to crowded places. Why? Where people come together in crowds, you are more likely to come into close contact with someone that has COIVD-19 and it is more difficult to maintain physical distance of 1 metre (3 feet).
-
-_( Now it&#39;s time for some old fashion explanation. Blah Blah! )_
 
 **What is social distancing?**
 
@@ -31,9 +29,9 @@ To practice social or physical distancing:
 
 In addition to everyday steps to prevent COVID-19, keeping space between you and others is one of the best tools we have to avoid being exposed to this virus and slowing its spread locally and across the country and world.
 
-_ **Conclusion time!! Social distancing is arguably the most effective non pharmaceutical way to prevent the spread of a disease — by definition, if people are not close together, they cannot spread germs!** _
+**Conclusion time!! Social distancing is arguably the most effective non pharmaceutical way to prevent the spread of a disease — by definition, if people are not close together, they cannot spread germs!**
 
-**But how we can leverage** _ **&quot;AI&quot;** _ **to achieve this?**
+**But how we can leverage &quot;AI&quot; to achieve this?**
 
 ![](RackMultipart20200611-4-1nguv0o_html_2f1e9b3930999bc4.png)
 
