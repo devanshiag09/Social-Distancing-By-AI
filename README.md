@@ -1,3 +1,7 @@
+## Social Distancing By AI
+
+Using python, deep learning and computer vision to monitor social distancing.
+
 **Is social distancing Important?**
 
 According to world health organization,
