@@ -24,7 +24,7 @@ To practice social or physical distancing:
 
 
 
-![](pic2.jpg)
+![](/static/social-distancing.jpg)
 *Image via External Sources*
 
 In addition to everyday steps to prevent COVID-19, keeping space between you and others is one of the best tools we have to avoid being exposed to this virus and slowing its spread locally and across the country and world.
@@ -33,9 +33,7 @@ In addition to everyday steps to prevent COVID-19, keeping space between you and
 
 **But how we can leverage &quot;AI&quot; to achieve this?**
 
-![](sd_flow.PNG)
-
-![](sur.jpg)
+![](/static/sur.jpg)
 *Image via External Sources*
 
 **Surveillance:**
@@ -51,6 +49,8 @@ This technology can help small crowd gathering platforms such as restaurants and
 For high density enclosures with constant influx and exit of people such as metro platforms, malls, museums, etc; a population density tracker can be maintained that records the average distance amongst the crowd and generates an alert to the officials every time the average distance violates a particular threshold. This achieves the goal of controlling the inflow of people at the very entry itself and still manages to keep a healthy density of crowd within the public gathering platform, without raising any safety concerns.
 
 **Process,**
+
+![](/static/flow.JPG)
 
 **Detecting people in a frame or a video,**
 
