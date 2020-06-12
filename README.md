@@ -2,7 +2,7 @@
 
 According to world health organization,
 
-![](who_sd.jpg =500*700)
+![](who_sd.jpg =250x250)
 *Image via Google(http://google.com)*
 
 Prevention –
