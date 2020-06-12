@@ -2,7 +2,7 @@
 
 According to world health organization,
 
-![](who_sd.jpg =250x250)
+![](who_sd.jpg)
 *Image via Google(http://google.com)*
 
 Prevention –
@@ -57,10 +57,12 @@ For high density enclosures with constant influx and exit of people such as metr
 - When it comes to deep learning object detection, there are primary three object detection neural net architecture,
   - R-CNN and its variant;  Original R-CNN, Fast R-CNN, Faster R-CNN.
   - Single shot detector.
-  - YOLO. (YOLOv3)
+  - YOLO. (YOLOv3) **Currently Used**
+
+- **Compute the minimum pixel thrsehold to conclude violation**.  
 
 - **Compute the pair wise distances** between all the detected people.
 
 - **Based on the distances we will monitor the social distancing.**
 
-- Interactive visualization for KPIs using Bokeh and Plotly.
+- **Monitor Social Distancing Violation Index Scale - 1: Good; 0:Poor.**
