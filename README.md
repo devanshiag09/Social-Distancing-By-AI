@@ -2,7 +2,7 @@
 
 According to world health organization,
 
-![](who_sd.jpg)
+![](/static/who_sd.jpg)
 *Image via Google(http://google.com)*
 
 Prevention –
