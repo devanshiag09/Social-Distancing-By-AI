@@ -3,6 +3,7 @@
 According to world health organization,
 
 ![](/static/who_sd.jpg)
+
 *Image via Google(http://google.com)*
 
 Prevention –
@@ -25,6 +26,7 @@ To practice social or physical distancing:
 
 
 ![](/static/social-distancing.jpg)
+
 *Image via External Sources*
 
 In addition to everyday steps to prevent COVID-19, keeping space between you and others is one of the best tools we have to avoid being exposed to this virus and slowing its spread locally and across the country and world.
@@ -34,6 +36,7 @@ In addition to everyday steps to prevent COVID-19, keeping space between you and
 **But how we can leverage &quot;AI&quot; to achieve this?**
 
 ![](/static/sur.jpg)
+
 *Image via External Sources*
 
 **Surveillance:**
