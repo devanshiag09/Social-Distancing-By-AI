@@ -57,12 +57,14 @@ For high density enclosures with constant influx and exit of people such as metr
 
 **Process,**
 
+In the past decade, AI/Deep Learning has shown promising results on a number of daily life problems. Various daily life tasks have been automated with the help of AI. Detecting distances between pedestrian from 2D images without any extra information is not possible. One way is to define the minimum pixel threshold corresponding to 6 feet to conclude the violatoin of social distancing and compute euclidean distance between the centroids. This would have been true if the camera was equidistant to all the points on the plane where the pedestrians were walking. The closer the pedestrians are to the camera the bigger they are. The closer the two points (which are same number of pixels apart ) on the frame to the camera, the smaller is the actual distance between them. 
+
 # How to install?
 It’s advisable to [make a new virtual environment](https://towardsdatascience.com/setting-up-python-platform-for-machine-learning-projects-cfd85682c54b) for this project and install the dependencies. Following steps can be taken to download get started with the project
 
 ## Clone the repository
 ```
-git clone https://github.com/aqeelanwar/SocialDistancingAI.git
+https://github.com/devanshiag09/Social-Distancing-By-AI.git
 ```
 
 ## Install required packages
@@ -83,10 +85,20 @@ pip install –r requirements.txt
   - Single shot detector.
   - YOLO. (YOLOv3) **Currently Used**
 
-- **Compute the minimum pixel thrsehold to conclude violation**.  
+- **Learn the minimum pixel thrsehold to conclude violation**.  
 
 - **Compute the pair wise distances** between all the detected people.
 
 - **Based on the distances we will monitor the social distancing.**
 
 - **Monitor Social Distancing Violation Index Scale - 1: Good; 0:Poor.**
+
+**Output: Social Distancing Parameters**
+
+The algorithm calculates and reports the following parameters.
+
+1. Social Distancing Violation: Number of times the pedestrians violated the 6 feet safe distance threshold.
+
+2. Number of People
+
+3. Social-distancing Index: Quantifies the social distancing being maintained. 0 means all of the interaction violate the safe 6 feet distance criteria, 0.5 means half of the interactions violate the safe 6 feet distance criteria, 1 means none of the interaction violate the safe 6 feet distance criteria.
