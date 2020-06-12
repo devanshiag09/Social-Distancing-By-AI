@@ -1,4 +1,4 @@
-## Social Distancing By AI
+# Social Distancing By AI
 
 Using python, deep learning and computer vision to monitor social distancing.
 
@@ -55,27 +55,32 @@ This technology can help small crowd gathering platforms such as restaurants and
 
 For high density enclosures with constant influx and exit of people such as metro platforms, malls, museums, etc; a population density tracker can be maintained that records the average distance amongst the crowd and generates an alert to the officials every time the average distance violates a particular threshold. This achieves the goal of controlling the inflow of people at the very entry itself and still manages to keep a healthy density of crowd within the public gathering platform, without raising any safety concerns.
 
-**Process,**
+## Process
 
 In the past decade, AI/Deep Learning has shown promising results on a number of daily life problems. Various daily life tasks have been automated with the help of AI. Detecting distances between pedestrian from 2D images without any extra information is not possible. One way is to define the minimum pixel threshold corresponding to 6 feet to conclude the violatoin of social distancing and compute euclidean distance between the centroids. This would have been true if the camera was equidistant to all the points on the plane where the pedestrians were walking. The closer the pedestrians are to the camera the bigger they are. The closer the two points (which are same number of pixels apart ) on the frame to the camera, the smaller is the actual distance between them. 
 
-# How to install?
-It’s advisable to [make a new virtual environment](https://towardsdatascience.com/setting-up-python-platform-for-machine-learning-projects-cfd85682c54b) for this project and install the dependencies. Following steps can be taken to download get started with the project
+**How to install?**
 
-## Clone the repository
+**Clone the repository**
+
 ```
 https://github.com/devanshiag09/Social-Distancing-By-AI.git
 ```
 
-## Install required packages
+**Install required packages**
+
 The provided requirements.txt file can be used to install all the required packages. Use the following command
 
 ```
 pip install –r requirements.txt
 ```
 
-![](/static/flow.JPG)
+**Install required packages**
 
+Run the social_distance_detector.ipynb Jupyter Notebook.
+
+
+![](/static/flow.JPG)
 
 
 **Detecting people in a frame or a video,**
