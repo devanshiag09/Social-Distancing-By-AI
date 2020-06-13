@@ -75,7 +75,7 @@ The provided requirements.txt file can be used to install all the required packa
 pip install –r requirements.txt
 ```
 
-**Install required packages**
+**Run the Jupyter Notebook**
 
 Run the social_distance_detector.ipynb Jupyter Notebook.
 
